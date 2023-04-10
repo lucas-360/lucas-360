@@ -2,7 +2,7 @@
 - 👀 I’m interested in C/C++ / ROS / VHDL / automation "PLC".
 - 🌱 I’m currently learning VHDL/Python
 - 💞️ I’m looking to collaborate on any projects that to do with hardware/software implementations, however would stay a bit far from Apps.
-- 📫 How to reach me by : through lucas_ab@outlook.de
+
 
 <!---
 lucas-360/lucas-360 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
